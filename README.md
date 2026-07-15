@@ -1,6 +1,6 @@
 # UnitreeG1-OAK-D-W-Camera-Mount
 
-![Mount Image](assets/oak-d-w%20mount.jpg)
+<img src="assets/oak-d-w%20mount.jpg" alt="Mount Image" style="max-width:600px; width:100%; height:auto;">
 
 This guide covers the design and installation of an OAK-D-W-97 camera mount that replaces the Realsense camera on the Unitree G1 robot.  
 
