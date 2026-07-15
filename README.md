@@ -12,3 +12,8 @@ If you prefer to outsource the 3D printing, you can contact a professional 3D‑
 In my case, I sent each part’s required number of brass inserts, the corresponding STL files, and a **Brass Insert Guide – {PartName}.pdf** as a package to the vendor.  
 
 If you’d like to modify the design quickly, you can upload the STL files to **Tinkercad** and edit them there.
+
+
+### Camera
+OAK-D W (sensor option : ov9782)
+https://docs.luxonis.com/hardware/products/OAK-D%20W
